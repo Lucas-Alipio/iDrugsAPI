@@ -23,7 +23,7 @@ def create_user_route():
 
 @blueprint.route('/user', methods=['GET'])
 def find_user_route():
-    response = json.dumps(request.json)
+    response = json.dumps(request.args)
     return find_user(response)
 
 @blueprint.route('/user/<id>', methods=['GET'])
@@ -69,7 +69,7 @@ def create_product_route():
 
 @blueprint.route('/product', methods=['GET'])
 def find_product_route():
-    response = json.dumps(request.json)
+    response = json.dumps(request.args)
     return find_product(response)
 
 @blueprint.route('/product/<id>', methods=['GET'])
