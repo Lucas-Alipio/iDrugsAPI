@@ -1,4 +1,4 @@
-# iDrugs-pharm-engine
+# iDrugs-api
 
 ---
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -9,8 +9,6 @@
     <br/>
     Esse projeto é responsável por cadastrar, editar, excluir e listar tudo referente a farmácia, assim como remédios e seus funcionarios.
 </p>
-
-### [Casos de uso](https://github.com/S204-Inatel-2022-1/iDrugs-pharm-engine/blob/26ddaedb3c85a707f924ba918a1c77fa605af2f0/casos_de_uso.md)
 
 ### Para rodar seu ambiente deve possuir:
 1. Git Bash <br/>
@@ -51,41 +49,3 @@ source venv/bin/activate
 pip install -r requirements.txt
 python app.py
 ```
-
-## 👥 Autores
-<table  style="text-align:center; border: none" >
-<tr>
-
-<td align="center"> 
-<a href="https://github.com/itmoura" style="text-align:center;">
-<img style="border-radius: 20%;" src="https://github.com/itmoura.png" width="120px;" alt="autor"/><br> <strong> Ítalo Moura </strong>
-</a>
-</td>
-
-<td align="center"> 
-<a href="https://github.com/Lucas-Alipio" styles="text-align:center;">
-<img style="border-radius: 20%;" src="https://github.com/Lucas-Alipio.png" width="120px;" alt="autor"/><br><strong> Lucas de Souza </strong>
-</a>
-</td>
-
-<td align="center"> 
-<a href="https://github.com/dimeleone" styles="text-align:center;">
-<img style="border-radius: 20%;" src="https://github.com/dimeleone.png" width="120px;" alt="autor"/><br><strong> Dimitri Leone </strong>
-</a>
-</td>
-
-<td align="center"> 
-<a href="https://github.com/luizakinsky" style="text-align:center;">
-<img style="border-radius: 20%;" src="https://github.com/luizakinsky.png" width="120px;" alt="autor"/><br><strong> Luiza Kinsky </strong>
-</a>
-</td>
-
-<td align="center"> 
-<a href="https://github.com/NavesEdu" styles="text-align:center;">
-<img style="border-radius: 20%;" src="https://github.com/NavesEdu.png" width="120px;" alt="autor"/><br><strong> Eduardo Naves </strong>
-</a>
-</td>
-
-</tr>
-</table>
-
