@@ -3,6 +3,13 @@
 ---
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+## Endpoints
+<p>
+    https://idrugsapi.herokuapp.com
+    https://idrugsapi.herokuapp.com/idrugs-api/{info}
+    {info} -> type - product - user
+</p>
+
 ### Sobre esse Projeto
 <p>
     Projeto em desenvolvimento com fins academicos
